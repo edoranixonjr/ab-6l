@@ -6,7 +6,10 @@
 </head>
 <body>
 	<h1>Welcome to Git!</h1>
-
+	<img src = "cat.jpeg">
+	
+	<p>Nixon Andrian Edora Jr.
+		2012-68633, AB-6L</p>
 </body>
 </html>
 
